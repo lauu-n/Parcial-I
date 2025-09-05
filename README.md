@@ -51,3 +51,25 @@ gcc punto2.c -o punto2
 
 ### Definición
 El promedio se define como:
+$$
+\text{promedio}(xs) = \frac{\text{suma}(xs)}{\text{longitud}(xs)}
+$$
+
+---
+
+## Definición en cálculo lambda
+
+En notación de cálculo lambda podemos escribirlo como:
+
+$$
+\text{Promedio} = \lambda xs.\; \frac{\Sigma(xs)}{|xs|}
+$$
+
+donde:
+
+- $\Sigma(xs)$ es una función que calcula la suma de los elementos de la lista.
+- $|xs|$ es una función que calcula la longitud de la lista.
+
+---
+
+### Laura Niño
