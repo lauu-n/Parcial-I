@@ -23,7 +23,9 @@ python punto1.py
 ### Conclusión 
   Declarativo es ideal en práctica, Imperativo es útil para aprendizaje.
 
-## Punto 1: Gestión de estudiantes en C (Optimización de memoria)
+---
+
+## Punto 2: Gestión de estudiantes en C (Optimización de memoria)
 
 ### Cada estudiante tiene:
 - Nombre
@@ -43,6 +45,8 @@ python punto1.py
 gcc punto2.c -o punto2
 ./punto2
 ```
+
+---
 
 ## Punto 3: Calculo Lambda - Promedio de una lista
 
