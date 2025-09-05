@@ -3,7 +3,7 @@
 El promedio de una lista de `n` números se define como:
 
 promedio(xs) = 
-/frac{suma (xs)}{longitud(xs)}
+  /frac{suma (xs)}{longitud(xs)}
 ---
 
 ## Definición en cálculo lambda
@@ -35,5 +35,6 @@ Promedio([2,4,6]) = Σ([2,4,6]) / |[2,4,6]|
 - Se aplica la función `Σ` para obtener la suma de los elementos.
 - Se aplica la función `|xs|` para obtener la longitud.
 - Finalmente, se divide la suma entre la longitud para obtener el promedio.
+
 
 
