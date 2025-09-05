@@ -51,6 +51,7 @@ gcc punto2.c -o punto2
 
 ### Definición
 El promedio se define como:
+
 $$
 \text{promedio}(xs) = \frac{\text{suma}(xs)}{\text{longitud}(xs)}
 $$
