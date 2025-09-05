@@ -1,8 +1,5 @@
 # Parcial 1 - Paradigmas de Programación
 
-Este repositorio contiene las soluciones al **Parcial 1** de la materia *Paradigmas de Programación (2025-2)*.  
-Cada punto aborda un paradigma o concepto fundamental en la programación.
-
 ---
 
 ## Punto 1: Ordenamiento de estudiantes (Imperativo vs Declarativo)
