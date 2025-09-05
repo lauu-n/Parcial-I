@@ -1,4 +1,4 @@
-📘 Parcial 1 - Paradigmas de Programación
+# Parcial 1 - Paradigmas de Programación
 
 Este repositorio contiene las soluciones al **Parcial 1** de la materia *Paradigmas de Programación (2025-2)*.  
 Cada punto aborda un paradigma o concepto fundamental en la programación.
@@ -18,6 +18,36 @@ Cada punto aborda un paradigma o concepto fundamental en la programación.
   - Ventajas: muestra el cómo funciona el algoritmo.  
   - Desventajas: más extenso, mutable, menos eficiente.
 
-### jecución
+### Ejecución
 ```bash
 python punto1.py
+```
+
+### Conclusión 
+  Declarativo es ideal en práctica, Imperativo es útil para aprendizaje.
+
+## Punto 1: Gestión de estudiantes en C (Optimización de memoria)
+
+### Cada estudiante tiene:
+- Nombre
+- Apellido
+- Edad
+- ID
+- Conjunto de calificaciones
+
+### Técnicas implementadas
+- Estructuras (`struct`) optimizadas → definición clara de campos.
+- Cadenas dinámicas (`char`) → asignando solo la memoria necesaria.
+- Arrays dinámicos (`float`) → ajustados al número de materias.
+- Bitfields → usados para ahorrar espacio en campos pequeños como edad o ID.
+
+  ### Ejecución
+```bash
+gcc punto2.c -o punto2
+./punto2
+```
+
+## Punto 3: Calculo Lambda - Promedio de una lista
+
+### Definición
+El promedio se define como:
