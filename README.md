@@ -1,5 +1,4 @@
 # Parcial 1 - Paradigmas de Programación
-
 ---
 
 ## Punto 1: Ordenamiento de estudiantes (Imperativo vs Declarativo)
