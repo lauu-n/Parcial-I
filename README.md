@@ -56,8 +56,6 @@ $$
 \text{promedio}(xs) = \frac{\text{suma}(xs)}{\text{longitud}(xs)}
 $$
 
----
-
 ## Definición en cálculo lambda
 
 En notación de cálculo lambda podemos escribirlo como:
